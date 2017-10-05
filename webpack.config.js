@@ -1,6 +1,6 @@
 
 module.exports = {
-  entry: "./lib/katamari.js",
+  entry: "./lib/game.js",
   output: {
   	filename: "./lib/bundle.js"
   },
